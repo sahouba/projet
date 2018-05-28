@@ -1,0 +1,102 @@
+header{
+	padding:25px 0px;/*Marge verticale*/
+	background-color:#34495e; /*Couleur de fond*/
+	text-align:center;/*texte centré*/
+}
+.bouton{
+  background-color: #d35400;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50%;
+}
+
+}
+.lasthours{
+  color: #2ecc71;
+  text-align: center;
+  float: left;
+}
+.imgheard{
+  width: 50px;
+}
+.blockimagenew{
+  display: block;
+   float: left;
+   width: 300px;
+
+
+  }
+  #Description{
+    text-align: center;
+    color: #c0392b;
+  }
+  .blockpragraphe1 {
+    display: block;
+    width: 900px;
+
+    float: right;
+    text-align: right;
+  }
+
+.clear{
+  clear: right;
+  clear: left;
+}
+
+.divimages{
+  text-align: center;
+}
+
+}
+.pragauche{
+  float: left;
+display: block;
+  text-align: left;
+}
+.imageavion{
+  float: right;
+}
+.blockpragraphe2{
+  display: inline-block;
+  width: 800px;
+  height: 800px;
+  text-align: center;
+  float: left;
+}
+.blockimageavion{
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  float: right;
+
+}
+div.title1{
+  text-align: center;
+  color: #833471;
+  size: 50px;
+}
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 300px;
+    list-style: circle;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
