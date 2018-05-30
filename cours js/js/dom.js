@@ -1,6 +1,12 @@
+//positionement de falg
  toogle =false ;
+ // selection de elmeent par sont id
  var btn =document.getElementById("toogle");
- btn.onclick = function() { toogleThis();}
+ // declanchement deune fonclion su l'evenement"click"
+ btn.onclick = function() {
+   toogleThis();
+ }
+ //function
 
  var toogleThis = function() {
 
