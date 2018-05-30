@@ -1,0 +1,27 @@
+#wrapper {
+  width: 95%;
+  padding-left: 250px;
+}
+
+.clear {
+  clear: both;
+}
+
+.center {
+  text-align: center;
+}
+
+.square {
+  margin: 50px auto;
+  width: 300px;
+  height: 300px;
+  float:left;
+}
+
+.square1 {
+  background: red;
+}
+
+.square2 {
+  background: green;
+}
