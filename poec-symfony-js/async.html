@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
+
+  <title>Async</title>
+  <style media="screen">
+    img {
+      width: 100px;
+      position: relative;
+      opacity: 1;
+      top: 0;
+      left: 0;
+    }
+
+    img.logo {
+      width: 50px;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Asynchronie</h1>
+  <!--Animation -->
+  <section>
+    <button id="btnStart" type="button" name="button">Star l'animation</button>
+    <button id="btnStop" type="button" name="button">Stop l'animation</button>
+    <div id="message"></div>
+    <img id="imgColisee" src="img/colisee.jpg" alt="">
+  </section>
+  <!--Ajax -->
+  <section>
+    <button id="btnAjax" type="button" name="button">Requéte Ajax</button>
+    <div class="alert" id="teams"></div>
+  </section>
+  <script type="text/javascript" src="js/async.js">
+  </script>
+</body>
+
+</html>

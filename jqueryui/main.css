@@ -1,0 +1,16 @@
+body{
+  background-color: red;
+}
+#effect{
+  height: 300px;
+  width: 300px;
+  background-color: white;
+  margin-top: 220px;
+  margin-left: 600px;
+}
+.espace{
+  margin:30px;
+}
+#select{
+  margin-left: 650px;
+}

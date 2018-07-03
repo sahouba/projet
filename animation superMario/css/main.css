@@ -1,0 +1,7 @@
+img {position: relative;
+    left: 0;
+    top: 0;}
+.mushroom-kingdom{background:url(http://stuffpoint.com/super-mario/image/422849-super-mario-wallpapers-nintendo-super-mario.jpg) no-repeat center -350px;
+height:550px; max-width:1500px; margin:0 auto;}
+
+.mario{top:455px; left:0px; width:50px; height:50px;}

@@ -1,0 +1,14 @@
+h2{
+  text-align: center;
+  position: relative;
+}
+body{
+  background-color: #22a6b3;
+
+}
+img.thumbnail {
+  height: 75px;
+  border: 1px rgb(127, 127, 127) solid;
+  border-radius: 4px;
+  margin: 4px
+}
